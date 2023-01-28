@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/TeslaClone/static/media/logo.be622899.svg"
   },
   {
-    "revision": "369039deb6273cbee310713920ebde8b",
+    "revision": "2a41c1b40702eca100431f8ecaed74a9",
     "url": "/TeslaClone/index.html"
   }
 ];
